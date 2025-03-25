@@ -1,0 +1,7 @@
+info adding delivery service on user 0001 at 0xffdd45
+info adding delivery service on user 0002 at 0xffdd46
+info releasing delivery service from user 0001 at 0xffdd46
+error 0xffdd46 service not found
+info releasing delivery service from user 0002 at 0xffdd45
+info releasing 0xffdd45 ok
+error SIG11

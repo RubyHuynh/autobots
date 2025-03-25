@@ -1,0 +1,14 @@
+info creating new user 0002
+info creating new user 0003
+info creating new user 0004
+info creating new user 0005
+info creating new user 0005
+error duplicated user
+info releasing user 0002
+info releasing user 0005
+error SIG11
+info releasing user 0004
+info releasing user 0003
+info creating new user 0006
+info creating new user 0007
+info creating new user 0008
